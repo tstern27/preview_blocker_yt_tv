@@ -1,0 +1,10 @@
+# Build output (zip is generated for each store upload)
+*.zip
+# Private signing key: never commit
+*.pem
+*.crx
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
